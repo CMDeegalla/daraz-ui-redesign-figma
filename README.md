@@ -33,7 +33,7 @@ The aim was to improve usability, visual consistency, and overall user experienc
 
 ## 🔗 Figma Design Link
 
-👉 [https://www.figma.com/PASTE-YOUR-LINK-HERE](https://www.figma.com/design/7NxHknWJ7JRbxm8E8wAqc4/Untitled?node-id=0-1&t=wYGRt9mZNGF2E1pd-1)
+https://www.figma.com/design/7NxHknWJ7JRbxm8E8wAqc4/Untitled?node-id=0-1&t=wYGRt9mZNGF2E1pd-1
 
 ---
 
