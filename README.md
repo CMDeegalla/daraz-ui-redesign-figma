@@ -16,7 +16,7 @@ The aim was to improve usability, visual consistency, and overall user experienc
 
 ## 👥 Team Information
 
-- **Team size:** (add number if you know)
+- **Team size:** 12 members
 - **My role:** UI/UX Designer (framework & layout contributor)
 
 ---
